@@ -17,7 +17,7 @@ const Popup = ({ onClose }) => {
           className="bg-[#7cd259] rounded-full px-6 py-2 text--2xl sm:text-5xl font-short  font-bold border-2 hover:scale-125"
           onClick={onClose}
         >
-         Enter SheepPEPE Village
+         Enter SheepPEPE BAAAaa
         </button>
       </div>
     </div>
