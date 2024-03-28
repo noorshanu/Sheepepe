@@ -29,7 +29,7 @@ function Hero() {
               </a>
 
               <a
-                href="#"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/5fj5L8VReY3Dacrur3zT2neEfZ7djUxxgDMxHYnhQ4Y3?t=1711617229071"
                 target="_blank"
                 className=" bg-[#7cd259] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
               >
