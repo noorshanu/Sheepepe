@@ -42,10 +42,10 @@ function Hero() {
             </div>
 
             <a
-              href="/"
+              href="https://solscan.io/token/7Gskgxewdxvoyzk5xhhpuFAoHFFrs9t1JdJE7AnwNL5a"
               className=" my-2 text-black font-bold py-2 px-2 sm:px-16 rounded sm:text-base text-xs font-short   flex justify-center w-[360px] sm:w-[580px] mx-auto"
             >
-              BpAsimH7aFv2KFLDQeqWQkkCQh2tdsfsdfsdfsfsdfsd
+              7Gskgxewdxvoyzk5xhhpuFAoHFFrs9t1JdJE7AnwNL5a
             </a>
           </div>
         </div>
