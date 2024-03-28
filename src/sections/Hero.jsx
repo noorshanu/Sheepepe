@@ -45,7 +45,7 @@ function Hero() {
               href="/"
               className=" my-2 text-black font-bold py-2 px-2 sm:px-16 rounded sm:text-base text-xs font-short   flex justify-center w-[360px] sm:w-[580px] mx-auto"
             >
-              BpAsimH7aFv2KFLDQeqWQkkCQh2tdsfsdfsdfsfsdfsd
+              BpAsimH7aFv2KFLDQeqWQk <br className=" block sm:hidden" />kCQh2tdsfsdfsdfsfsdfsd
             </a>
           </div>
         </div>
