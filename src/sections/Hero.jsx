@@ -43,7 +43,7 @@ function Hero() {
 
             <a
               href="https://solscan.io/token/7Gskgxewdxvoyzk5xhhpuFAoHFFrs9t1JdJE7AnwNL5a"
-              className=" my-2 text-black font-bold py-2 px-2 sm:px-16 rounded sm:text-base text-[9px] font-short   flex justify-center w-[360px] sm:w-[580px] mx-auto"
+              className=" my-2 text-[#000000] bg-[#fff] rounded-full font-bold py-2 px-2 sm:px-16  sm:text-base text-[9px] font-short   flex justify-center w-[360px] sm:w-[500px] mx-6"
             >
               7Gskgxewdxvoyzk5xhhpuFAoHFFrs9t1JdJE7AnwNL5a
             </a>
