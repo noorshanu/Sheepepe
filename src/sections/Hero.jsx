@@ -10,12 +10,12 @@ function Hero() {
           <img src="images/logo.png" alt="" className=" h-[250px]" />
 
           <div>
-            <h1 className=" font-kid text-center text-3xl ">WELCOME TO THE <br />FLOCK BAAAAAAAA</h1>
+            <h1 className=" font-kid text-center text-3xl ">WELCOME TO THE <br /> BAAAAAAAA</h1>
 
             <div className=" flex justify-center gap-5 items-center mt-[2rem]">
               <a
                 href="https://twitter.com/pepe_sheep_"
-                className=" text-xl text-black bg-[#7cd259] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                className=" text-2xl text-black bg-[#7cd259] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
                 <BsTwitterX />
               </a>
@@ -23,7 +23,7 @@ function Hero() {
               <a
                 href="https://t.me/pepesheep"
                 target="_blank"
-                className=" text-xl text-black hover:scale-125 bg-[#7cd259] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                className=" text-2xl text-black hover:scale-125 bg-[#7cd259] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
                 <FaTelegram />
               </a>
@@ -36,7 +36,7 @@ function Hero() {
                 <img
                   src="images/dext.png"
                   alt=""
-                  className=" h-[29px] w-auto"
+                  className=" h-[35px] w-auto"
                 />
               </a>
             </div>
